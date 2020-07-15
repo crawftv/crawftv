@@ -4,7 +4,7 @@ Topbox.io
 
 
 ## Blog
-I keep track of what I learn at book.CrawfordC.com
+I keep track of what I learn at [book.CrawfordC.com](book.CrawfordC.com)
 
 
 ## Favorite Projects
