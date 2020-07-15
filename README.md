@@ -1,4 +1,10 @@
-### Hi there 👋
+# Software Engineer working in Python
+
+## Favorite Projects
+### Crawto
+A command line tool to go from a .csv to a jupyter notebook full of data cleaning, analysis, and model testing & analysis. 
+### Crawto-Quality
+A command line tool to add Numpy styled doc strings to your code.
 
 <!--
 **crawftv/crawftv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
