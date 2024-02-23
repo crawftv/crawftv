@@ -4,10 +4,10 @@ Topbox.io
 
 
 ## Blog
-I keep track of what I learn at [book.CrawfordC.com](book.CrawfordC.com)
 
 
 ## Favorite Projects
+### llm-experiments
 ### Crawto
 A command line tool to go from a .csv to a jupyter notebook full of data cleaning, analysis, and model testing & analysis. 
 ### Crawto-Quality
